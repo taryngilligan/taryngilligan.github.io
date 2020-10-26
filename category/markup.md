@@ -14,41 +14,41 @@ Digital Narratology, Cognitive Literary Criticism, Sociolinguistics, Empathy Stu
 <i>2018</i> – present	Boston Creative Collective
 Co-Founder & Chief Executive Officer
 
-•	<br>Creating a unique and dynamic brand that has been recognized within the local arts community and beyond with a network of over 400 local artists, designers, and makers</br>
-•	<br>Managing video and photo productions, graphic designs, and other creative projects for client marketing and branding initiatives</br>
-•	Writing curriculums and developing educational resources for our community of artists and creatives about various business and marketing topics 
-•	Building and maintaining relationships with local top tier artists and designers across disciplines for current and future client projects
-•	Facilitating relationships between our artists and clients, ensuring that expectations are met and that projects run as efficiently and effectively as possible
-•	 Working with clients such as Smarter in the City, Scholarjet, Northeastern University, and MIT while simultaneously securing partnerships with local and national companies such as Ten Thousand Villages, Redsky Studios, and TB12
-•	Planning and co-sponsoring events for local artists and entrepreneurs on a variety of business topics such as personal branding, digital storytelling, and business basics
-•	Growing a targeted and engaged social media presence with over 1,750 followers on Instagram, and over 500 email subscribers
+<br>• Creating a unique and dynamic brand that has been recognized within the local arts community and beyond with a network of over 400 local artists, designers, and makers</br>
+<br>• Managing video and photo productions, graphic designs, and other creative projects for client marketing and branding initiatives</br>
+<br>• Writing curriculums and developing educational resources for our community of artists and creatives about various business and marketing topics</br> 
+<br>• Building and maintaining relationships with local top tier artists and designers across disciplines for current and future client projects</br>
+<br>• Facilitating relationships between our artists and clients, ensuring that expectations are met and that projects run as efficiently and effectively as possible</br>
+<br>• Working with clients such as Smarter in the City, Scholarjet, Northeastern University, and MIT while simultaneously securing partnerships with local and national companies such as Ten Thousand Villages, Redsky Studios, and TB12</br>
+<br>• Planning and co-sponsoring events for local artists and entrepreneurs on a variety of business topics such as personal branding, digital storytelling, and business basics</br>
+<br>• Growing a targeted and engaged social media presence with over 1,750 followers on Instagram, and over 500 email subscribers</br>
 
 
 
 <i>2012– present</i> Taryn Gilligan
 Business Development & Digital Marketing Strategy Consultant
 
-•	Consulting and mentoring social media Influencers, small businesses, and entrepreneurs on a variety of business development and marketing topics 
-•	Increasing client engagement by an average of 50% on Instagram and Twitter, optimizing their reach by helping them understand their target audience, analytics, and the individual platform algorithms
-•	Utilizing social media to get clients and customers to the top of the funnel by creating loyal and engaged communities, writing actionable copy, incorporating Influencer Marketing to gain organic visibility (ex: garnering over 100,000 organic Twitter impressions per post in a single Twitter Chat), and implementing effective brand ambassador programs using top niche Influencers (ex: growing brand’s Instagram followings by over 325%)
-•	Auditing and creating performance analytic reports for clients such as Lady Gaga’s Little Monsters team and the MLBPA (Major League Baseball Players Association)
-•	Increasing open rates by an average of 20% and click rates by 5.2% by overhauling email campaigns, leading to overall brand awareness and increased repeat business
-•	Creating and maintaining PR strategies for clients by securing publications, speaking engagements, podcasts, and social media collaboration opportunities
+<br>• Consulting and mentoring social media Influencers, small businesses, and entrepreneurs on a variety of business development and marketing topics</br>
+<br>• Increasing client engagement by an average of 50% on Instagram and Twitter, optimizing their reach by helping them understand their target audience, analytics, and the individual platform algorithms</br>
+<br>• Utilizing social media to get clients and customers to the top of the funnel by creating loyal and engaged communities, writing actionable copy, incorporating Influencer Marketing to gain organic visibility (ex: garnering over 100,000 organic Twitter impressions per post in a single Twitter Chat), and implementing effective brand ambassador programs using top niche Influencers (ex: growing brand’s Instagram followings by over 325%)</br>
+<br>• Auditing and creating performance analytic reports for clients such as Lady Gaga’s Little Monsters team and the MLBPA (Major League Baseball Players Association)</br>
+<br>• Increasing open rates by an average of 20% and click rates by 5.2% by overhauling email campaigns, leading to overall brand awareness and increased repeat business</br>
+<br>• Creating and maintaining PR strategies for clients by securing publications, speaking engagements, podcasts, and social media collaboration opportunities</br>
 
 <i>2013</i>  Integrated Design Group
 Marketing & Communications Assistant
 
-•	Managed digital marketing and social media pages by creating captivating and targeted posts resulting in prospective client leads, a 300% increase in followers on Facebook, and a 167% increase in followers on Twitter. Clients included: Fidelity, L.L.Bean, Google, Novartis, etc.
-•	Aided in the composition of company proposals, RFP/RFI's, resumes, copy, and graphic designs.
-•	Drafted weekly blog posts on the company's website about a wide variety of informational topics regarding architecture, construction, and data centers.
-•	Collaborated with company’s outside PR firms to craft press releases for publications and marketing collateral.
-•	Assisted in the organization of the firm’s annual data center symposium by contacting potential sponsors, booking speakers, and planning panel topics.
-•	Composed marketing research for direct and indirect competitors and presented information to the firm's principals in weekly business and marketing meetings.
-•	Facilitated marketing meetings between the firm's principals, marketing department, architects, and engineers
-•	Helped HR with outreach and the promotion of their unique company culture via company events, volunteer projects, and social media posts.
+• Managed digital marketing and social media pages by creating captivating and targeted posts resulting in prospective client leads, a 300% increase in followers on Facebook, and a 167% increase in followers on Twitter. Clients included: Fidelity, L.L.Bean, Google, Novartis, etc.
+• Aided in the composition of company proposals, RFP/RFI's, resumes, copy, and graphic designs.
+• Drafted weekly blog posts on the company's website about a wide variety of informational topics regarding architecture, construction, and data centers.
+• Collaborated with company’s outside PR firms to craft press releases for publications and marketing collateral.
+• Assisted in the organization of the firm’s annual data center symposium by contacting potential sponsors, booking speakers, and planning panel topics.
+• Composed marketing research for direct and indirect competitors and presented information to the firm's principals in weekly business and marketing meetings.
+• Facilitated marketing meetings between the firm's principals, marketing department, architects, and engineers
+• Helped HR with outreach and the promotion of their unique company culture via company events, volunteer projects, and social media posts.
 
 <b>Creative Work:</b>
-<i>I started painting when I was recovering from my concussions in 2006. Painting had been a hobby until 2018 when I started taking on some commissioned work and selling original pieces.</i>
+<br><i>I started painting when I was recovering from my concussions in 2006. Painting had been a hobby until 2018 when I started taking on some commissioned work and selling original pieces.</i></br>
 
 2018 		Red Sky Studios, Environmentally Friendly & Sustainable Art Show, Artist, Allston, MA
 2018 	Bombay Sapphire Artisan Series, Scope Miami Beach (Art Basel Miami) & ARTSY, Semi-Finalist
