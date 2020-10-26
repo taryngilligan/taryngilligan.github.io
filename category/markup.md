@@ -14,8 +14,8 @@ Digital Narratology, Cognitive Literary Criticism, Sociolinguistics, Empathy Stu
 <i>2018</i> – present	Boston Creative Collective
 Co-Founder & Chief Executive Officer
 
-•	Creating a unique and dynamic brand that has been recognized within the local arts community and beyond with a network of over 400 local artists, designers, and makers
-•	Managing video and photo productions, graphic designs, and other creative projects for client marketing and branding initiatives
+•	<br>Creating a unique and dynamic brand that has been recognized within the local arts community and beyond with a network of over 400 local artists, designers, and makers</br>
+•	<br>Managing video and photo productions, graphic designs, and other creative projects for client marketing and branding initiatives</br>
 •	Writing curriculums and developing educational resources for our community of artists and creatives about various business and marketing topics 
 •	Building and maintaining relationships with local top tier artists and designers across disciplines for current and future client projects
 •	Facilitating relationships between our artists and clients, ensuring that expectations are met and that projects run as efficiently and effectively as possible
