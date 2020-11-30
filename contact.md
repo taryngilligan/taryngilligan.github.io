@@ -5,8 +5,10 @@ sidebar_link: true
 
 ---
 <br>
-For questions & collaborations feel free to reach me at-
+For questions & collaborations:
 <br>
 email: gilligan.t@northeastern.edu
+<br>
 twitter: www.twitter.com/taryn_gilligan
+<br>
 website: www.taryngilligan.com
