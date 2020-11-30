@@ -6,7 +6,7 @@ sidebar_link: true
 ---
 <br><b>
 For questions & collaborations:
-<br><br>
+</b><br><br>
 email: gilligan.t@northeastern.edu
 <br>
 twitter: www.twitter.com/taryn_gilligan
