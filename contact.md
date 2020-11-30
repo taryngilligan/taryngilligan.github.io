@@ -4,9 +4,9 @@ title: Contact
 sidebar_link: true
 
 ---
-<br>
+<br><b>
 For questions & collaborations:
-<br>
+<br><br>
 email: gilligan.t@northeastern.edu
 <br>
 twitter: www.twitter.com/taryn_gilligan
