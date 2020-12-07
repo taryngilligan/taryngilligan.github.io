@@ -7,10 +7,11 @@ title: CV
 ## CV 2020
 
 ### Education:
+MA  English, 2020-2022, Northeastern University, Boston, MA
 BA 	English, History Minor, 2013-2015, Northeastern University, Boston, MA
 
 ### Research Interests:
-Digital Storytelling, Narratology, Social Media and Collective Consciousness, Empathy, Digital Ethics & Morality, Digital Community Formation, Self-Expression and Online Identity Development, Culture and New Media, Rhetoric and Composition
+Digital narratology, New Media, sociolinguistics, cognitive literary criticism, empathy studies
 
 ### Professional Experience:
 
@@ -58,24 +59,30 @@ I started painting when I was recovering from my concussions in 2006. Painting h
 ### Speaking Engagements & Podcast Interviews:
 
 <b>2019</b>	“No End in Sight Podcast.” Interviewed by Brianne Benness, On the reality of living with chronic illnesses and conditions: setbacks, community, and the importance of personal narratives for creating societal empathy.
+
 <b>2019</b>	“Tell Your Story: The Impact of Brand Stories.” Guest Speaker, Impact Hub x Zephyr, Boston, MA. On the importance of leveraging storytelling to create loyal communities and customers. 
+
 <b>2018</b>	“The Importance of Storytelling in the Digital Age,” Speaker, Boston Speaks x Boston Creative Collective, Boston, MA. On the science of storytelling, connecting the dots between neuroscience and literature for creating empathy, connection, and community.
+
 <b>2016</b>	“New Methods of Marketing: Social Media & Influencer Marketing.” Panelist, PR Advanced: Tune In! x Boston University, Boston, MA. A panel on Influencer marketing, authentic connections, and community. 
+
 <b>2014</b>	“Real Talk Real Women Episode 167.” Interviewed by Miriam Khalladi. Conversations about chronic illnesses and conditions, perseverance, identity, and vulnerability.
 
 ### Publications & Interviews:
 
 <b>2018</b>	Gilligan, Taryn. “In First Person: Taryn Gilligan.” Edited by Larissa Weiss, Old Soul Wednesday. https://www.oldsoulwednesdays.com/blog/in-first-person-taryn-gilligan.
+
 <b>2016</b>	Selke, Taylor, et al. “10 Ditch-the-Scale Ways to Tell If You're Losing Weight.” Shape.com, Shape. https://www.shape.com/weight-loss/management/10-ditch-scale-ways-tell-if-youre-losing-weight.
+
 <b>2014</b>	Gilligan, Taryn. “Disease Is Not Defeat.” Bodybuilding.com, Bodybuilding.com. https://www.bodybuilding.com/fun/fitness-amateur-of-the-week-taryn-gilligan.html?searchterm=taryn
 
 ### Mentorship & Volunteer Experience: 
 
 <b>2019</b>	Northeastern University XN Program, Sponsor, M.S Corporate and Organizational Communications Program
-<b>2018</b>		MIT’s delta v Program, Business Development and Marketing Mentor
-<b>2018</b>		MassChallenge, Business Development and Marketing Mentor
-<b>2016</b> – 2018	Xplosive Performance Academy, Business Development and Marketing Mentor
-<b>2013 – 2016</b>	Fit University, Business Development and Marketing Mentor
+<b>2018</b>	MIT’s delta v Program, Business Development and Marketing Mentor
+<b>2018</b>	MassChallenge, Business Development and Marketing Mentor
+<b>2016 – 2018</b> Xplosive Performance Academy, Business Development and Marketing Mentor
+<b>2013 – 2016</b> Fit University, Business Development and Marketing Mentor
 
 ### Skills:
 
@@ -85,7 +92,9 @@ I started painting when I was recovering from my concussions in 2006. Painting h
 
 ### Languages:
 <b>English:</b> Native Speaker
+
 <b>French:</b> Intermediate Reading, Listening, Speaking, and Writing
+
 <b>Spanish:</b> Basic Reading, Listening, Speaking, and Writing
 
 
