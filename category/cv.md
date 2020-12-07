@@ -56,7 +56,7 @@ Marketing & Communications Assistant
 
 ### Creative Work:
 
-I started painting when I was recovering from my concussions in 2006. Painting had been a hobby until 2018 when I started taking on some commissioned work and selling original pieces. 
+> I started painting when I was recovering from my concussions in 2006. Painting had been a hobby until 2018 when I started taking on some commissioned work and selling original pieces.
 
 <b>2018</b> 	Red Sky Studios, Environmentally Friendly & Sustainable Art Show, Artist, Allston, MA
 
@@ -85,9 +85,13 @@ I started painting when I was recovering from my concussions in 2006. Painting h
 ### Mentorship & Volunteer Experience: 
 
 <b>2019</b>	Northeastern University XN Program, Sponsor, M.S Corporate and Organizational Communications Program
+
 <b>2018</b>	MIT’s delta v Program, Business Development and Marketing Mentor
+
 <b>2018</b>	MassChallenge, Business Development and Marketing Mentor
+
 <b>2016 – 2018</b> Xplosive Performance Academy, Business Development and Marketing Mentor
+
 <b>2013 – 2016</b> Fit University, Business Development and Marketing Mentor
 
 ### Skills:
@@ -97,10 +101,11 @@ I started painting when I was recovering from my concussions in 2006. Painting h
 <b>Analytical:</b> Google Analytics, Data Analysis, Basic HTML and CSS, UX Strategy, A/B Testing, CRM Software & Project Management Software, Microsoft Office Suite, Qualitative Research, Digital Marketing Strategy, Content Marketing Strategy, Business Planning & Development, Project Management, Client & Employee Management, Marketing Research, Influencer Marketing Strategy, Community Management, SEO & SEM Optimization, Investor Relations
 
 ### Languages:
+
 <b>English:</b> Native Speaker
 
-<b>French:</b> Intermediate Reading, Listening, Speaking, and Writing
+<b>French:</b> Intermediate Reading, Writing, Listening, Speaking
 
-<b>Spanish:</b> Basic Reading, Listening, Speaking, and Writing
+<b>Spanish:</b> Basic Reading, Writing, Listening, Speaking
 
 
