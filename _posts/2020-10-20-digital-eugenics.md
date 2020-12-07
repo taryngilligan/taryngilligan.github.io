@@ -8,8 +8,6 @@ tags:
   - algorithms
 ---
 
-## Digital Eugenics: A Byproduct of Our Interconnected Influence or an Algorithmic Demise by Our Own Design?
-
 With the rise of digital platforms like social media, we are finding ourselves spending more and more time flipping back and forth between various social apps and scrolling tirelessly through endless feeds. As someone who has worked in digital marketing for the better part of the past decade, specializing in SEO and various other algorithm manipulation and optimization tactics, I have found myself with many questions and observations surrounding digital culture and rhetoric over the years. However, I keep finding myself coming back to one specific term, one that at this point in my research is not commonly used, or really used at all for that matter-- <i>digital eugenics</i>.
 
 According to Oxford Languages, eugenics is defined as, “the study of how to arrange reproduction within a human population to increase the occurrence of heritable characteristics regarded as desirable.” So, what exactly do I mean by digital eugenics and why does it matter? As I mentioned, I have yet to find any existing definitions for this particular term, but this is how I have been thinking about it over the years:
@@ -22,7 +20,7 @@ As social creatures, mimicry, mirroring, and other means of coalescence are not 
 
 Ross Cunliffe, MA student of Literature and Digital Culture from University Centre Doncaster & University Hull from the U.K is the only person I have been able to find who has not only talked (albeit four years ago) about this subject, but has researched it-- at least to some extent. Though Cunliffe channels his research through a rhizomatic lens, he still highlights similar concerns about the potential damage of algorithmic interference both individually and culturally. For his project he writes:
 
->“What we are focusing on is a shift towards a ‘new type of human’—cultivated and engendered by the incision of the digital into the natural world. What traits are auspicious for integration into this emerging new world (for which I believe there is no ambiguity toward our inevitable destination)? Who is permitted entry? Are the youth being molded by forces outside of the usual worldly institutions (such as schools and parents) in an unprecedentedly auxiliary manner? What are the governing forces (concealed or not) in the digital world?”
+“What we are focusing on is a shift towards a ‘new type of human’—cultivated and engendered by the incision of the digital into the natural world. What traits are auspicious for integration into this emerging new world (for which I believe there is no ambiguity toward our inevitable destination)? Who is permitted entry? Are the youth being molded by forces outside of the usual worldly institutions (such as schools and parents) in an unprecedentedly auxiliary manner? What are the governing forces (concealed or not) in the digital world?”
 
 These questions are ones that I have been asking myself both personally and professionally. I think it is imperative to be conscious of the content we consume and how we integrate it both on a conscious and subconscious level into our lives. However, living in a world where we are constantly being inundated with an overwhelming amount of information and have unlimited access to entertainment and other forms of escapism online, it can be incredibly challenging to constantly maintain that level of ongoing self-awareness.
 
