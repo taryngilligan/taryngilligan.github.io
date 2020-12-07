@@ -1,10 +1,9 @@
 ---
 layout: category
-title: CV
+title: CV 2020
 ---
 
 # Taryn Gilligan
-## CV 2020
 
 ### Education:
 
