@@ -7,15 +7,19 @@ title: CV
 ## CV 2020
 
 ### Education:
+
 MA  English, 2020-2022, Northeastern University, Boston, MA
+
 BA 	English, History Minor, 2013-2015, Northeastern University, Boston, MA
 
 ### Research Interests:
+
 Digital narratology, New Media, sociolinguistics, cognitive literary criticism, empathy studies
 
 ### Professional Experience:
 
-<b>2018 – present</b>	Boston Creative Collective
+<b>2018 – present</b>	  Boston Creative Collective
+
 Co-Founder & Chief Executive Officer
 
 *	Creating a unique and dynamic brand that has been recognized within the local arts community and beyond with a network of over 400 local artists, designers, and makers
@@ -27,7 +31,8 @@ Co-Founder & Chief Executive Officer
 *	Planning and co-sponsoring events for local artists and entrepreneurs on a variety of business topics such as personal branding, digital storytelling, and business basics
 *	Growing a targeted and engaged social media presence with over 1,750 followers on Instagram, and over 500 email subscribers
 
-<b>2012 – present</b>	Taryn Gilligan 
+<b>2012 – present</b>	  Taryn Gilligan 
+
 Business Development & Digital Marketing Strategy Consultant
 
 *	Consulting and mentoring social media Influencers, small businesses, and entrepreneurs on a variety of business development and marketing topics 
@@ -37,7 +42,8 @@ Business Development & Digital Marketing Strategy Consultant
 *	Increasing open rates by an average of 20% and click rates by 5.2% by overhauling email campaigns, leading to overall brand awareness and increased repeat business
 *	Creating and maintaining PR strategies for clients by securing publications, speaking engagements, podcasts, and social media collaboration opportunities
 
-<b>2013</b> Integrated Design Group
+<b>2013</b>   Integrated Design Group
+
 Marketing & Communications Assistant
 
 *	Managed digital marketing and social media pages by creating captivating and targeted posts resulting in prospective client leads, a 300% increase in followers on Facebook, and a 167% increase in followers on Twitter. Clients included: Fidelity, L.L.Bean, Google, Novartis, etc.
