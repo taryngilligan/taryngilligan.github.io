@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modeling Empathy: Measuring Affect & Fostering Connection Through Data Visualization"
+title: "Modeling Empathy: Fostering Connection Through Data Visualization"
 categories:
   - Data Visualization
 tags:
