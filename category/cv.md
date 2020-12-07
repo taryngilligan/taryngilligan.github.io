@@ -18,7 +18,7 @@ Digital narratology, New Media, sociolinguistics, cognitive literary criticism, 
 
 ### Professional Experience:
 
-<b>2018 – present</b>	  Boston Creative Collective
+<b>2018 – present</b>	        Boston Creative Collective
 
 Co-Founder & Chief Executive Officer
 
@@ -31,7 +31,7 @@ Co-Founder & Chief Executive Officer
 *	Planning and co-sponsoring events for local artists and entrepreneurs on a variety of business topics such as personal branding, digital storytelling, and business basics
 *	Growing a targeted and engaged social media presence with over 1,750 followers on Instagram, and over 500 email subscribers
 
-<b>2012 – present</b>	  Taryn Gilligan 
+<b>2012 – present</b>	         Taryn Gilligan 
 
 Business Development & Digital Marketing Strategy Consultant
 
@@ -42,7 +42,7 @@ Business Development & Digital Marketing Strategy Consultant
 *	Increasing open rates by an average of 20% and click rates by 5.2% by overhauling email campaigns, leading to overall brand awareness and increased repeat business
 *	Creating and maintaining PR strategies for clients by securing publications, speaking engagements, podcasts, and social media collaboration opportunities
 
-<b>2013</b>   Integrated Design Group
+<b>2013</b>                  Integrated Design Group
 
 Marketing & Communications Assistant
 
@@ -60,6 +60,7 @@ Marketing & Communications Assistant
 I started painting when I was recovering from my concussions in 2006. Painting had been a hobby until 2018 when I started taking on some commissioned work and selling original pieces. 
 
 <b>2018</b> 	Red Sky Studios, Environmentally Friendly & Sustainable Art Show, Artist, Allston, MA
+
 <b>2018</b> 	Bombay Sapphire Artisan Series, Scope Miami Beach (Art Basel Miami) & ARTSY, Semi-Finalist
 
 ### Speaking Engagements & Podcast Interviews:
