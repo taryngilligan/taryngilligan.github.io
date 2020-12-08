@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            T.K Gilligan
+title:            T.K. Gilligan
 tagline:          'A blog'
-description:      'Introduction to Digital Humanities Fall 2020'
+description:      'A personal exploration into the world of DH & other academic musings'
 url:              https://taryngilligan.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'T.K Gilligan'
+  name:           'T.K. Gilligan'
   url:            https://twitter.com/@taryn_gilligan
 
 paginate:         5
