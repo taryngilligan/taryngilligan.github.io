@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where Do I Belong?: My Journey Into Academia and the world of DH"
+title: "An Interdisciplanary Crossroads: My Journey Into Academia and the world of DH"
 categories:
   - Personal Posts
 tags:
