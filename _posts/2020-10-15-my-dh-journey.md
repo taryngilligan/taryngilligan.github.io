@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Interdisciplanary Crossroads: My Journey Into Academia and the world of DH"
+title: "An Interdisciplinary Crossroads: My Journey Into Academia And The Digital Humanities"
 categories:
   - Personal Posts
 tags:
