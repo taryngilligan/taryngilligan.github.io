@@ -9,8 +9,6 @@ tags:
   - social media
   - 
 ---
-# Help or Hindrance?: Digital Ethics and the Decolonization of the Digital Humanities
-
 As public discourse continues to shift towards anti-racist education and topics of racial injustice, inequality, and inequity, I find myself thinking about the ways my research fits into this moment. I also wonder how my personal identity may be acting as a potential hindrance to the work that I am doing. On the topic of Black scholarship and decolonization of the digital humanities Safiya Umoja Noble writes in her essay, “Towards a Critical Black Digital Humanities”, 
 
 >“ The digital humanities is moving to the fore of the academy at a moment of heightened racial oppression, rising white supremacy, anti-LGBTQ hysteria among politicians, anti-immigrant legislation, mass incarceration, and the most profound wealth and resource inequality (which disproportionately harms women and children) to be recorded in modern times. If critical digital humanists are not willing to lead the conversation about the implications of the digital on social inequality and to help develop policy that attempts to mitigate this inequality, then who can?” ( 2).
